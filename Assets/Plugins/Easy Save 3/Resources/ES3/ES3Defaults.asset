@@ -32,6 +32,10 @@ MonoBehaviour:
     assemblyNames:
     - Assembly-CSharp
     - Assembly-CSharp-firstpass
+    - Febucci.Attributes.Runtime
+    - Febucci.TextAnimator.Demo.Runtime
+    - Febucci.TextAnimator.Runtime
+    - Febucci.TextAnimator.TMP.Runtime
     - Lofelt.NiceVibrations
     - Lofelt.NiceVibrations.Demo
     - MoreMountains.Feedbacks
@@ -44,6 +48,7 @@ MonoBehaviour:
     - MoreMountains.Feedbacks.TextMeshPro
     - MoreMountains.Feedbacks.URP
     - MoreMountains.Tools
+    - Sirenix.OdinInspector.Modules.Unity.Addressables
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
   autoUpdateReferences: 1
